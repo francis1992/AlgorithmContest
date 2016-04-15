@@ -1,4 +1,4 @@
-package Coderforces;
+package Codeforces;
 
 import java.io.BufferedReader;
 import java.io.IOException;
