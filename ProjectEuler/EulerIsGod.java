@@ -10,7 +10,7 @@ import java.util.ArrayList;
 import java.util.List;
 import java.util.StringTokenizer;
 
-public class Main {
+public class EulerIsGod {
 	
   public static void main(String[] args) {
     InputStream inputStream = System.in;
