@@ -13,7 +13,7 @@
 #include <ctime>
 using namespace std;
 const int maxn=100000010;
-const int maxN=30000000;
+const int maxN=1000000;
 int prime[maxn/10],flag[maxn],num;
 int a;
 bool vis[maxN];
