@@ -31,9 +31,9 @@ public class BearCircleGame {
 			} else {
 				long inv = 1;
 				while(inv*(k/g) % (i/g) != 1) inv++;
-				int x = exp(inv2, inv)
 			}
 		}
+		return 0;
 	}
 	// BEGIN CUT HERE
 	public static void main(String[] args) {
