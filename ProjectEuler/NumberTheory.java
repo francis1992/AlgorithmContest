@@ -4,7 +4,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 public class NumberTheory {
-	public static List<Integer> gerPrimes(int n) {
+	public static List<Integer> getPrimes(int n) {
 		List<Integer> primes = new ArrayList<>();
 		boolean[] vis = new boolean[n + 1];
 		for (int i = 2; i <= n; i++) {

@@ -12,7 +12,7 @@ public class Problem501 extends EulerIsGod {
 	void solve() {
 		int n = 1000000;
 		long N = 1000000L;
-		List <Integer> primes = NumberTheory.gerPrimes(n);
+		List <Integer> primes = NumberTheory.getPrimes(n);
 		// 8 = 2 * 2 * 2 = 4 * 2 = 8
 		// p1 * p2 * p3
 		// p1^3 * p2
